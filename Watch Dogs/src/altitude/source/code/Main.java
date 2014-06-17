@@ -35,5 +35,8 @@ public class Main extends JavaPlugin implements Listener{
 		System.out.println("Sneak past the cops.");
 		System.out.println("Hack the cameras."); //used to unlock the door 
 		System.out.println("Lure the cop away."); //not to sure if we want to lure or kill but it says lure
+		System.out.println("Reach the upper level.");
+		System.out.println("Create the stadium blackout.");
+		System.out.println("Sneak out of the stadium");
 	}
 }
