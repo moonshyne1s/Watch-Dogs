@@ -24,5 +24,13 @@ public class Main extends JavaPlugin implements Listener{
 			return true;
 		}
 		return false; 
+		
+		System.out.println("What is your name?");
+		
+		name = s.nextLine();
+		
+		System.out.println("Welcome to Watch_Blocks, " + name + "!");
+		
+		System.out.println("Shoot Maurice."); //First thing to do
 	}
 }
