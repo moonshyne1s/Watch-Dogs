@@ -32,5 +32,6 @@ public class Main extends JavaPlugin implements Listener{
 		System.out.println("Welcome to Watch_Blocks, " + name + "!");
 		
 		System.out.println("Shoot Maurice."); //First thing to do
+		System.out.println("Sneak past the cops.");
 	}
 }
